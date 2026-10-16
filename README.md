@@ -10,19 +10,19 @@
 
 ## Overview : 
 
-This project is the complete 3D model of a **[N]-cylinder radial engine** built in SolidWorks, assembled as a fully mated multi-body assembly and animated using a SolidWorks Motion Study to verify that the mechanism moves correctly.
+This project is the complete 3D model of a **6-Cylinder Radial Engine** built in SolidWorks, assembled as a fully mated multi-body assembly and animated using a SolidWorks Motion Analysis to verify that the mechanism moves correctly.
 
 ## Competition : 
 
-- **Event:** BluePrint 2k24-25, organized by Mechrocosm under the Avishkar Technical Fest, MNNIT Allahabad
+- **Event Name:** BluePrint 2k24-25, organized by Mechrocosm under the Avishkar Technical Fest, MNNIT Allahabad
 - **Category:** 2nd Year
-- **Team:** Kuch Bhi
+- **Team:** Kuch Bhi👾
 - **Result:** 3rd Position
 - **Round:** Qualifier (6 Cylinder Radial Engine Design)
 
 ---
 
-## Preview
+## Preview : 
 
 <img src="Renders/preview.PNG" width="650">
 
@@ -34,7 +34,7 @@ This project is the complete 3D model of a **[N]-cylinder radial engine** built 
 
 ---
 
-## What Is Modeled
+## What Is Modeled ?
 
 <!-- Edit this list so it matches your actual assembly -->
 - Cylinders with end caps and fasteners
