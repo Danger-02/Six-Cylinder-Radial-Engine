@@ -24,7 +24,7 @@ This project is the complete 3D model of a **[N]-cylinder radial engine** built 
 
 ## Preview
 
-<img src="images/radial_engine_render.png" width="650">
+<img src="Renders/preview.PNG" width="650">
 
 *Rendered view of the complete radial engine assembly.*
 
