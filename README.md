@@ -26,15 +26,19 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 
 <div align="center">
   <img src="Renders/preview.PNG" alt="Air Piston Cylinder Assembly Render" width="75%">
-  <p>*Rendered view of the complete 6 Cyliner Radial Engine assembly.*</p>
+  <p>Rendered view of the complete 6 Cyliner Radial Engine assembly.</p>
+</div>
+
+<div align="center">
+  <img src="Motion_Analysis/" alt="Air Piston Cylinder Assembly Render" width="75%">
+  <p>Motion Analysis of the engine mechanism.</p>
 </div>
 
 
 
 
-<img src="images/motion_study.gif" width="650">
 
-*Motion Study of the engine mechanism.*
+
 
 ---
 
