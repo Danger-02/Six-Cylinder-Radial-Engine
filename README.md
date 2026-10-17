@@ -21,7 +21,7 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 
 ---
 
-## CAD Model (Solidworks): 
+## CAD Model (Solidworks) : 
 
 <div align="center">
   <img src="Renders/preview.PNG" alt="6 Cylinder Radial Engine Motion preview" width="75%">
@@ -90,9 +90,9 @@ Demo video: `motion_study/radial_engine_motion.mp4`
 
 ```
 Six-Cylinder-Radial-Engine/
-├── BOM/                    # Bill of Materials spreadsheet (.xlsx)
+├── BOM/                    # Bill of Materials (in .xlsx and pdf)
 ├── CAD_Files/              # Contains all individual .SLDPRT part files and master .SLDASM file
-├── Motion_Analysis         # Contains motion analysis video
+├── Motion_Analysis         # Contains motion analysis (mp4 and gif)
 ├── Renders/                # Visual 3D render image of the assembly
 └── README.md               # Project documentation page
 ```
