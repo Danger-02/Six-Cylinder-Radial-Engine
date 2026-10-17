@@ -41,15 +41,37 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 
 ---
 
-## What Is Modeled ?
+## 📋 Bill of Materials (BOM)
 
-<!-- Edit this list so it matches your actual assembly -->
-- Cylinders with end caps and fasteners
-- Pistons
-- Flywheel
-- Bearings
-- Support stand and base plate
-- [Add: crankshaft, connecting rods, any other parts]
+| ITEM NO. | PART NUMBER | DESCRIPTION | QTY. |
+| :---: | :--- | :--- | :---: |
+| 1 | Base |  | 1 |
+| 2 | Piller Support |  | 1 |
+| 3 | Bearing Support |  | 1 |
+| 4 | Valve Housing |  | 1 |
+| 5 | Valve |  | 1 |
+| 6 | Crankcase |  | 1 |
+| 7 | Sub Assembled Crankshaft |  | 1 |
+|  |    Counter Weight |  | 2 |
+|  |    Crankshaft Pin |  | 1 |
+|  |     Crankshaft Rod |  | 1 |
+| 8 | Crankshaft Valve Crank |  | 1 |
+| 9 | SKF - 6001 - Full | DE, AC, Full_68 | 3 |
+| 10 | Connecting Rod Hub |  | 1 |
+| 11 | Crankcase Gasket |  | 1 |
+| 12 | Crankcase Cover |  | 1 |
+| 13 | Hub Pin |  | 6 |
+| 14 | Cylinder Body |  | 6 |
+| 15 | Cyinder Bolt |  | 24 |
+| 16 | Cylinder Cover |  | 6 |
+| 17 | Connecting Rod |  | 6 |
+| 18 | Sub Assembled Piston |  | 6 |
+|  |    Piston |  | 1 |
+|  |    Piston Pin |  | 1 |
+|  |    Piston Ring |  | 2 |
+| 19 | DIN 1587 - M6 --NNU |  | 24 |
+| 20 | ISO 4762 M6 x 45 - 45S |  | 6 |
+| 21 | Flywheel |  | 1 |
 
 ## Motion Analysis
 
