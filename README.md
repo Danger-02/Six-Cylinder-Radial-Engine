@@ -82,7 +82,7 @@ Motion study set up in SolidWorks Motion Study:
 - **Duration:** 10 seconds
 - **Output:** Animation (in .mp4 and.gif) in Motion_Analysis folder.
 
-Demo video: `Motion_Analysis/Motion_Analysis.gif`
+Demo video: `Motion_Analysis/Motion Analysis.mp4`
 
 ---
 
