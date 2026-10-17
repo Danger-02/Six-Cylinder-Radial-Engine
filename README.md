@@ -82,7 +82,7 @@ Motion study set up in SolidWorks Motion Study:
 - **Duration:** 10 seconds
 - **Output:** Animation (in .mp4 and.gif) in Motion_Analysis folder.
 
-Demo video: `motion_study/radial_engine_motion.mp4`
+Demo video: `Motion_Analysis/Motion_Analysis.gif`
 
 ---
 
