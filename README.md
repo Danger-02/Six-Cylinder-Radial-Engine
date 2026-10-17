@@ -77,10 +77,10 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 
 Motion study set up in SolidWorks Motion Study:
 
-- **Driver:** [rotary motor on crankshaft / flywheel]
-- **Speed:** [RPM]
-- **Duration:** [seconds]
-- **Output:** [animation / piston displacement / velocity plots]
+- **Driver:** Rotary motor on Crankshaft Rod.
+- **Speed:** 100 RPM
+- **Duration:** 10 seconds
+- **Output:** Animation (in .mp4 and.gif) in Motion_Analysis folder.
 
 Demo video: `motion_study/radial_engine_motion.mp4`
 
@@ -99,7 +99,7 @@ Six-Cylinder-Radial-Engine/
 
 ## Credits : 
 
-Team: **Kuch Bhi 👾**, BluePrint 2k24-25, Mechrocosm Event, MNNIT Allahabad.
+**Team:** Kuch Bhi👾, BluePrint 2k24-25, Mechrocosm Event, MNNIT Allahabad.
 
 ## License :
 
