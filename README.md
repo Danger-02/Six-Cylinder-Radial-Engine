@@ -29,7 +29,7 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 </div>
 
 <div align="center">
-  <img src="Motion_Analysis/Motion_Analysis.gif" alt="6 Cylinder Radial Engine Motion Analysis" width="75%">
+  <img src="Motion_Analysis/Motion_Analysis.mp4" alt="6 Cylinder Radial Engine Motion Analysis" width="75%">
   <p>Motion Analysis of the engine mechanism.</p>
 </div>
 
