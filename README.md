@@ -41,7 +41,7 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 
 ---
 
-## 📋 Bill of Materials (BOM)
+## Bill of Materials (BOM) : 
 
 | ITEM NO. | PART NUMBER | DESCRIPTION | QTY. |
 | :---: | :--- | :--- | :---: |
@@ -56,7 +56,7 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 |  |    Crankshaft Pin |  | 1 |
 |  |     Crankshaft Rod |  | 1 |
 | 8 | Crankshaft Valve Crank |  | 1 |
-| 9 | SKF - 6001 - Full | DE, AC, Full_68 | 3 |
+| 9 | SKF - 6001 - Full, DE, AC, Full_68 |  | 3 |
 | 10 | Connecting Rod Hub |  | 1 |
 | 11 | Crankcase Gasket |  | 1 |
 | 12 | Crankcase Cover |  | 1 |
@@ -73,7 +73,7 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 | 20 | ISO 4762 M6 x 45 - 45S |  | 6 |
 | 21 | Flywheel |  | 1 |
 
-## Motion Analysis
+## Motion Analysis :
 
 Motion study set up in SolidWorks Motion Study:
 
@@ -86,7 +86,7 @@ Demo video: `motion_study/radial_engine_motion.mp4`
 
 ---
 
-## Repository Structure
+## Repository Structure : 
 
 ```
 Six-Cylinder-Radial-Engine/
@@ -97,10 +97,10 @@ Six-Cylinder-Radial-Engine/
 └── README.md               # Project documentation page
 ```
 
-## Credits
+## Credits : 
 
-Team: **Kuch Bhi**, BluePrint 2k24-25, Mechrocosm Event, MNNIT Allahabad.
+Team: **Kuch Bhi 👾**, BluePrint 2k24-25, Mechrocosm Event, MNNIT Allahabad.
 
-## License
+## License :
 
 Shared for educational and portfolio purposes.
