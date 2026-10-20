@@ -28,16 +28,22 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
   <p> <i>Rendered view of 6 Cyliner Radial Engine assembly.</i></p>
 </div>
 
+---
+
+## Motion Analysis :
+
+Motion study set up in SolidWorks Motion Study:
+
+- **Driver:** Rotary motor on Crankshaft Rod.
+- **Speed:** 100 RPM
+- **Duration:** 10 seconds
+- **Output:** Animation (in .mp4 and.gif) in Motion_Analysis folder.
+
+Demo video: `Motion_Analysis/Motion Analysis.mp4`
 <div align="center">
   <img src="Motion_Analysis/Motion_Analysis.gif" alt="6 Cylinder Radial Engine Motion Analysis" width="75%">
   <p><i>Motion Analysis of 6 Cyliner Radial Engine assembly.</i></p>
 </div>
-
-
-
-
-
-
 
 ---
 
@@ -72,17 +78,6 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 | 19 | DIN 1587 - M6 --NNU | `.SLDPRT` | 24 |
 | 20 | ISO 4762 M6 x 45 - 45S | `.SLDPRT` | 6 |
 | 21 | Flywheel | `.SLDPRT` | 1 |
-
-## Motion Analysis :
-
-Motion study set up in SolidWorks Motion Study:
-
-- **Driver:** Rotary motor on Crankshaft Rod.
-- **Speed:** 100 RPM
-- **Duration:** 10 seconds
-- **Output:** Animation (in .mp4 and.gif) in Motion_Analysis folder.
-
-Demo video: `Motion_Analysis/Motion Analysis.mp4`
 
 ---
 
