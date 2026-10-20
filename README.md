@@ -70,9 +70,9 @@ Demo video: `Motion_Analysis/Motion Analysis.mp4`
       <tr><td align="center">5</td><td>Valve</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
       <tr><td align="center">6</td><td>Crankcase</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
       <tr><td align="center">7</td><td>Sub Assembled Crankshaft</td><td><code>.SLDASM</code></td><td align="center">1</td></tr>
-      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;↳ Counter Weight</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
-      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;↳ Crankshaft Pin</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;↳ Crankshaft Rod</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
+      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;  Counter Weight</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
+      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;  Crankshaft Pin</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
+      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;  Crankshaft Rod</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
       <tr><td align="center">8</td><td>Crankshaft Valve Crank</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
       <tr><td align="center">9</td><td>SKF - 6001 - Full, DE, AC, Full_68</td><td><code>.SLDPRT</code></td><td align="center">3</td></tr>
       <tr><td align="center">10</td><td>Connecting Rod Hub</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
@@ -84,15 +84,16 @@ Demo video: `Motion_Analysis/Motion Analysis.mp4`
       <tr><td align="center">16</td><td>Cylinder Cover</td><td><code>.SLDPRT</code></td><td align="center">6</td></tr>
       <tr><td align="center">17</td><td>Connecting Rod</td><td><code>.SLDPRT</code></td><td align="center">6</td></tr>
       <tr><td align="center">18</td><td>Sub Assembled Piston</td><td><code>.SLDASM</code></td><td align="center">6</td></tr>
-      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;↳ Piston</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;↳ Piston Pin</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;↳ Piston Ring</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
+      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;  Piston</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
+      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;  Piston Pin</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
+      <tr><td align="center"></td><td>&nbsp;&nbsp;&nbsp;&nbsp;  Piston Ring</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
       <tr><td align="center">19</td><td>DIN 1587 - M6 --NNU</td><td><code>.SLDPRT</code></td><td align="center">24</td></tr>
       <tr><td align="center">20</td><td>ISO 4762 M6 x 45 - 45S</td><td><code>.SLDPRT</code></td><td align="center">6</td></tr>
       <tr><td align="center">21</td><td>Flywheel</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
     </tbody>
   </table>
 </div>
+
 | ITEM NO. | COMPONENT NAME | FILE TYPE | QTY. |
 | :---: | :--- | :--- | :---: |
 | 1 | Base | `.SLDPRT` | 1 |
