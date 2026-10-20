@@ -2,7 +2,7 @@
 3D CAD model of a radial engine assembly with a SolidWorks Motion Study, developed for BluePrint 2k24-25 at MNNIT Allahabad.
 
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-MODELLING-%23C71D23?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=%23111111)](https://www.solidworks.com/)
-[![SolidWorks](https://img.shields.io/badge/SolidWorks-MOTION-ANALSYIS-%23C71D23?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=%23111111)](https://www.solidworks.com/)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-MOTION%20ANALSYIS-%23C71D23?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=%23111111)](https://www.solidworks.com/)
 
 ---
 
