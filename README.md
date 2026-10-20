@@ -1,9 +1,8 @@
-# 6 Cylinder Radial Engine - CAD Design and Motion Analysis (SolidWorks)
+# 6 Cylinder Radial Engine - CAD Modelling and Motion Analysis (SolidWorks)
 3D CAD model of a radial engine assembly with a SolidWorks Motion Study, developed for BluePrint 2k24-25 at MNNIT Allahabad.
 
-[![SolidWorks](https://img.shields.io/badge/CAD-SolidWorks-red)](https://www.solidworks.com/)
-[![Motion Study](https://img.shields.io/badge/Analysis-Motion%20Study-blue)](https://www.solidworks.com/)
-[![Result](https://img.shields.io/badge/BluePrint%202k24--25-2nd%20Place-gold)](#competition)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-MODELLING-%23C71D23?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=%23111111)](https://www.solidworks.com/)
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-MOTION-ANALSYIS-%23C71D23?style=for-the-badge&logo=dassaultsystemes&logoColor=white&labelColor=%23111111)](https://www.solidworks.com/)
 
 ---
 
