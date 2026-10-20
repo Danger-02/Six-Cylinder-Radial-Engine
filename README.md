@@ -23,6 +23,8 @@ This project is the complete 3D model of a **6-Cylinder Radial Engine** built in
 
 ## CAD Model (Solidworks) : 
 
+The CAD model features an intricate assembly of all primary engine components, including the crankcase, pistons, connecting rods, and valve mechanisms. Each part was individually modeled in SolidWorks and mated with constraints to ensure correct kinematic behavior and accurate mechanical interaction.
+
 <div align="center">
   <img src="Renders/preview.PNG" alt="6 Cylinder Radial Engine Motion preview" width="75%">
   <p> <i>Rendered view of 6 Cyliner Radial Engine assembly.</i></p>
