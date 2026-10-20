@@ -50,8 +50,6 @@ Demo video: `Motion_Analysis/Motion Analysis.mp4`
 
 ## Bill of Material (BOM) :
 
-## Bill of Material (BOM) :
-
 <div align="center">
   <table>
     <thead>
@@ -94,72 +92,6 @@ Demo video: `Motion_Analysis/Motion Analysis.mp4`
   </table>
 </div>
 
-| ITEM NO. | COMPONENT NAME | FILE TYPE | QTY. |
-| :---: | :--- | :--- | :---: |
-| 1 | Base | `.SLDPRT` | 1 |
-| 2 | Piller Support | `.SLDPRT` | 1 |
-| 3 | Bearing Support | `.SLDPRT` | 1 |
-| 4 | Valve Housing | `.SLDPRT` | 1 |
-| 5 | Valve | `.SLDPRT` | 1 |
-| 6 | Crankcase | `.SLDPRT` | 1 |
-| 7 | Sub Assembled Crankshaft | `.SLDASM` | 1 |
-|  |    Counter Weight | `.SLDPRT` | 2 |
-|  |    Crankshaft Pin | `.SLDPRT` | 1 |
-|  |     Crankshaft Rod | `.SLDPRT` | 1 |
-| 8 | Crankshaft Valve Crank | `.SLDPRT` | 1 |
-| 9 | SKF - 6001 - Full, DE, AC, Full_68 | `.SLDPRT` | 3 |
-| 10 | Connecting Rod Hub | `.SLDPRT` | 1 |
-| 11 | Crankcase Gasket | `.SLDPRT` | 1 |
-| 12 | Crankcase Cover | `.SLDPRT` | 1 |
-| 13 | Hub Pin | `.SLDPRT` | 6 |
-| 14 | Cylinder Body | `.SLDPRT` | 6 |
-| 15 | Cyinder Bolt | `.SLDPRT` | 24 |
-| 16 | Cylinder Cover | `.SLDPRT` | 6 |
-| 17 | Connecting Rod | `.SLDPRT` | 6 |
-| 18 | Sub Assembled Piston | `.SLDASM` | 6 |
-|  |    Piston | `.SLDPRT` | 1 |
-|  |    Piston Pin | `.SLDPRT` | 1 |
-|  |    Piston Ring | `.SLDPRT` | 2 |
-| 19 | DIN 1587 - M6 --NNU | `.SLDPRT` | 24 |
-| 20 | ISO 4762 M6 x 45 - 45S | `.SLDPRT` | 6 |
-| 21 | Flywheel | `.SLDPRT` | 1 |
-
-
-## Bill of Material (BOM) :
-
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="center">ITEM NO.</th>
-        <th align="left">COMPONENT NAME</th>
-        <th align="left">FILE TYPE</th>
-        <th align="center">QTY.</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Chassis Plates & Mounts -->
-      <tr><td align="center">1</td><td>Front Side Plate R</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center">2</td><td>Front Side Plate L</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center">3</td><td>Front Upper Arm Mount</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center">4</td><td>Front Shock Brace</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center">5</td><td>Assembled Front Lower Arm</td><td><code>.SLDASM</code></td><td align="center">2</td></tr>
-      <tr><td align="center">6</td><td>Assembled Front Upper Arm</td><td><code>.SLDASM</code></td><td align="center">2</td></tr>
-      <tr><td align="center">7</td><td>Front Lower Arm Brace</td><td><code>.SLDPRT</code></td><td align="center">1</td></tr>
-      <tr><td align="center">8</td><td>Front Lower Hinge Pin</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
-      <tr><td align="center">9</td><td>Front Upper Hinge Pin</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
-      <tr><td align="center">10</td><td>E-Clip</td><td><code>.SLDPRT</code></td><td align="center">8</td></tr>
-      <tr><td align="center">11</td><td>Front Suspension Adjustment Clip</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
-      <tr><td align="center">12</td><td>Shock Bushing</td><td><code>.SLDPRT</code></td><td align="center">2</td></tr>
-      <tr><td align="center">13</td><td>Assembled Shock Absorber</td><td><code>.SLDASM</code></td><td align="center">2</td></tr>
-      <tr><td align="center">14</td><td>Assembled Front Hub Carrier L</td><td><code>.SLDASM</code></td><td align="center">1</td></tr>
-      <tr><td align="center">15</td><td>Assembled Front Hub Carrier R</td><td><code>.SLDASM</code></td><td align="center">1</td></tr>
-      <tr><td align="center">16</td><td>ANSI B18.22.1 - M5-Narrow Washer</td><td><code>.SLDPRT</code></td><td align="center">6</td></tr>
-      <tr><td align="center">17</td><td>ISO-4035-M3-N Hex Nut</td><td><code>.SLDPRT</code></td><td align="center">4</td></tr>
-      <tr><td align="center">18</td><td>ISO 4762 - M3 × 20 Hex Socket Head Cap Screw</td><td><code>.SLDPRT</code></td><td align="center">10</td></tr>
-    </tbody>
-  </table>
-</div>
 ---
 
 ## Repository Structure : 
